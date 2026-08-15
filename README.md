@@ -7,6 +7,7 @@ prj2 simple_cpu.v (for MIPS)
 prj3 custom_cpu.v(mips and riscv)
 prj4 conv.c
 prj5 decache and icache
+额外：咨询“游戏”调研实验报告（关于五子棋的计算和思考）
 
 以及各自的实验报告
 
